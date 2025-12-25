@@ -1,0 +1,2 @@
+# StairsWaysCalculator
+Test code
